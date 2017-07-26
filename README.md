@@ -1,4 +1,5 @@
 # Autoprefixer [![Build Status][ci-img]][ci]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcichy1%2Fautoprefixer.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcichy1%2Fautoprefixer?ref=badge_shield)
 
 <img align="right" width="94" height="71"
      src="http://postcss.github.io/autoprefixer/logo.svg"
@@ -582,3 +583,7 @@ You can check which browsers are selected and which properties will be prefixed
 var info = autoprefixer().info();
 console.log(info);
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcichy1%2Fautoprefixer.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcichy1%2Fautoprefixer?ref=badge_large)
